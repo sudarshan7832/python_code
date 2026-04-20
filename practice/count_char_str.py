@@ -11,3 +11,4 @@ for char in text:
             count_char = count_char + char + str(c)
             c = 0
 print(count_char)
+print("checking git hub")

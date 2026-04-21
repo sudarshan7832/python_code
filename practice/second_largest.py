@@ -18,3 +18,4 @@ for i in range(2):
     l2.remove(c)
     c = 0
 print(num)
+print("hi hellow python")
